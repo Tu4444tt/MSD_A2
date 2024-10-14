@@ -1,0 +1,7 @@
+git checkout develop
+
+git checkout -b feature/book-tracking
+
+git add .
+git commit -m "Initial commit of book tracking functionality"
+git push -u origin feature/book-tracking
