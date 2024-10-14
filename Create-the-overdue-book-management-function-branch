@@ -1,0 +1,7 @@
+git checkout develop
+
+git checkout -b feature/member-management
+
+git add .
+git commit -m "Initial commit of member management functionality"
+git push -u origin feature/member-management
