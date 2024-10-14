@@ -1,0 +1,7 @@
+git checkout develop
+
+git checkout -b feature/book-search
+
+git add .
+git commit -m "Implement book search and filtering system"
+git push -u origin feature/book-search
